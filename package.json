@@ -5,6 +5,8 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
+    "gh-pages:build": "ng build --base-href \"https://andrey-buter.github.io/guitar-notes-trainer/\"",
+    "gh-pages:deploy": "npx angular-cli-ghpages --dir=dist/alphatab-app",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },

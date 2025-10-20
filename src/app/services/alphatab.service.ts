@@ -74,7 +74,8 @@ export class AlphaTabService {
       },
       notation: {
         notationMode: (alphaTab as any).NotationMode.GuitarPro
-      }
+      },
+      fontDirectory: './font/'
     };
 
     this.api = new alphaTab.AlphaTabApi(element, config);
