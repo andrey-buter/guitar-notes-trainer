@@ -1,0 +1,84 @@
+{
+  "APP": {
+    "TITLE": "Guitar Pro Clone",
+    "LOAD_FILE": "Load file"
+  },
+  "HEADER": {
+    "KEY": "Key",
+    "TUNING": "Tuning",
+    "SCALE_DEGREES": "Scale Degrees",
+    "TRACKS": "Tracks"
+  },
+  "TABS": {
+    "DEFAULT": "Default",
+    "NOTE_NAMES": "Note Names",
+    "NOTE_NAMES_OCTAVE": "Note Names+Octave",
+    "FRETBOARD_DEGREES": "Fretboard Degrees",
+    "ROMAN_NUMERALS": "Roman Numerals"
+  },
+  "SCALE_DEGREES": {
+    "NOTES": "Notes",
+    "RUSSIAN": "RU",
+    "TONIC": "Tonic",
+    "SUPERTONIC": "Supertonic",
+    "MEDIANT": "Mediant",
+    "SUBDOMINANT": "Subdominant",
+    "DOMINANT": "Dominant",
+    "SUBMEDIANT": "Submediant",
+    "LEADING_TONE": "Leading tone",
+    "TONE": "Tone",
+    "SEMITONE": "Semitone"
+  },
+  "PLAYER": {
+    "PLAY": "Play",
+    "STOP": "Stop",
+    "SETTINGS": "Settings"
+  },
+  "SETTINGS": {
+    "TITLE": "Settings",
+    "CLOSE": "Close",
+    "DISPLAY": "Display",
+    "NOTE_REPLACEMENT": "Note Replacement",
+    "DISPLAY_MECHANISM": "Display Mechanism",
+    "DISPLAY_MECHANISM_DESC": "How to display note names",
+    "ZOOM": "Zoom",
+    "THEME": "Theme",
+    "NOTATION": "Notation",
+    "DISPLAY_MODE": "Display Mode",
+    "DISPLAY_MODE_DESC": "Select notation display mode",
+    "NOTE_NAME_FORMAT": "Note Name Format",
+    "PLAYBACK": "Playback",
+    "SPEED": "Speed",
+    "METRONOME": "Enable metronome",
+    "COUNT_IN": "Enable count-in before start",
+    "RESET": "Reset all settings"
+  },
+  "OPTIONS": {
+    "NOTE_REPLACEMENT": {
+      "NONE": "Default (no replacement)",
+      "TAB_NUMBERS": "Replace fret numbers",
+      "TAB_NUMBERS_OCTAVE": "Replace fret numbers + octaves (e.g., C4, G#3)",
+      "SCALE_DEGREES": "Scale degrees (T, S, M, SD, D, SM, L)",
+      "SCALE_DEGREES_ROMAN": "Scale degrees - Roman numerals (I, II, III, IV, V, VI, VII)"
+    },
+    "DISPLAY_MECHANISM": {
+      "OVERLAY": "Overlay (letters on top)",
+      "REPLACE": "Replace (full replacement)"
+    },
+    "THEME": {
+      "LIGHT": "Light",
+      "DARK": "Dark"
+    },
+    "NOTATION_MODE": {
+      "STAFF_ONLY": "Staff only",
+      "TAB_ONLY": "Tablature only",
+      "BOTH": "Both staff and tablature"
+    },
+    "NOTE_FORMAT": {
+      "ENGLISH": "English (C, D, E, F, G, A, B)",
+      "GERMAN": "German (C, D, E, F, G, A, H)",
+      "SOLFEGE": "Solfège (Do, Re, Mi, Fa, Sol, La, Si)"
+    }
+  }
+}
+

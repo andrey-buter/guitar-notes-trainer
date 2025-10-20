@@ -1,0 +1,84 @@
+{
+  "APP": {
+    "TITLE": "Guitar Pro Clone",
+    "LOAD_FILE": "Загрузить"
+  },
+  "HEADER": {
+    "KEY": "Тональность",
+    "TUNING": "Строй",
+    "SCALE_DEGREES": "Ступени лада",
+    "TRACKS": "Дорожки"
+  },
+  "TABS": {
+    "DEFAULT": "Стандарт",
+    "NOTE_NAMES": "Названия нот",
+    "NOTE_NAMES_OCTAVE": "Названия нот+Октавы",
+    "FRETBOARD_DEGREES": "Ступени грифа",
+    "ROMAN_NUMERALS": "Римские цифры"
+  },
+  "SCALE_DEGREES": {
+    "NOTES": "Ноты",
+    "RUSSIAN": "RU",
+    "TONIC": "Тоника",
+    "SUPERTONIC": "Супертоника",
+    "MEDIANT": "Медианта",
+    "SUBDOMINANT": "Субдоминанта",
+    "DOMINANT": "Доминанта",
+    "SUBMEDIANT": "Субмедианта",
+    "LEADING_TONE": "Вводный тон",
+    "TONE": "Тон",
+    "SEMITONE": "Полутон"
+  },
+  "PLAYER": {
+    "PLAY": "Воспроизвести",
+    "STOP": "Остановить",
+    "SETTINGS": "Настройки"
+  },
+  "SETTINGS": {
+    "TITLE": "Настройки",
+    "CLOSE": "Закрыть",
+    "DISPLAY": "Отображение",
+    "NOTE_REPLACEMENT": "Замена названиями нот",
+    "DISPLAY_MECHANISM": "Механизм отображения",
+    "DISPLAY_MECHANISM_DESC": "Как показывать названия нот",
+    "ZOOM": "Масштаб",
+    "THEME": "Тема",
+    "NOTATION": "Нотация",
+    "DISPLAY_MODE": "Что отображать",
+    "DISPLAY_MODE_DESC": "Выберите режим отображения нотации",
+    "NOTE_NAME_FORMAT": "Система обозначения нот",
+    "PLAYBACK": "Воспроизведение",
+    "SPEED": "Скорость",
+    "METRONOME": "Включить метроном",
+    "COUNT_IN": "Включить счёт перед началом",
+    "RESET": "Сбросить все настройки"
+  },
+  "OPTIONS": {
+    "NOTE_REPLACEMENT": {
+      "NONE": "Стандартно (без замены)",
+      "TAB_NUMBERS": "Заменить цифры на табулатуре",
+      "TAB_NUMBERS_OCTAVE": "Заменить цифры на табулатуре + октавы (например, C4, G#3)",
+      "SCALE_DEGREES": "Ступени лада (T, S, M, SD, D, SM, L)",
+      "SCALE_DEGREES_ROMAN": "Ступени лада - римские цифры (I, II, III, IV, V, VI, VII)"
+    },
+    "DISPLAY_MECHANISM": {
+      "OVERLAY": "Overlay (буквы поверх)",
+      "REPLACE": "Replace (полная замена)"
+    },
+    "THEME": {
+      "LIGHT": "Светлая",
+      "DARK": "Тёмная"
+    },
+    "NOTATION_MODE": {
+      "STAFF_ONLY": "Только нотный стан",
+      "TAB_ONLY": "Только табулатура",
+      "BOTH": "И нотный стан, и табулатура"
+    },
+    "NOTE_FORMAT": {
+      "ENGLISH": "Английская (C, D, E, F, G, A, B)",
+      "GERMAN": "Немецкая (C, D, E, F, G, A, H)",
+      "SOLFEGE": "Сольфеджио (Do, Re, Mi, Fa, Sol, La, Si)"
+    }
+  }
+}
+
